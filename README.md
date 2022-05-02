@@ -1,6 +1,10 @@
+# Hack Facebook Account using Bruteforce
+Facebook Bruteforce attack
+
 # Fbbrutehack
-GREAT POWER COME WITH GREAT RESPONSIBILITY
- 
+```
+Facebook Bruteforce Attack, For Educational Purposes Only
+```
 ## How to install?
 ```
 >> git clone https://github.com/Yoshialt123/Fbbrutehack
@@ -9,3 +13,8 @@ GREAT POWER COME WITH GREAT RESPONSIBILITY
 >> python3 -m pip install mechanize
 >> python3 fbbrutehack.py
 ```
+
+# REMEMBER
+GREAT POWER COMES WITH GREAT RESPONSIBILITY
+
+"THANKS"
