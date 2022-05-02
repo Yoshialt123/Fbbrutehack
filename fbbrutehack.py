@@ -48,7 +48,7 @@ def is_this_a_password(email, index, password):
 if __name__ == "__main__":
     print('\n---Welcome_to_Fbbrutehack---\n')
 
-    print('\n---A_tool_made_by:Nothing---\n')
+    print('\n---A_tool_made_by:Yoshialt123---\n')
 
     if not os.path.isfile(PASSWORD_FILE):
         print("Password file is not exist: ", PASSWORD_FILE)
