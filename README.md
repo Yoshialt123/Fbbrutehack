@@ -1,7 +1,7 @@
 # Fbbrutehack
 GREAT POWER COME WITH GREAT RESPONSIBILITY
  
-## Run commands one by one
+## How to install?
 ```
 >> git clone https://github.com/Yoshialt123/Fbbrutehack
 >> cd Fbbrutehack
