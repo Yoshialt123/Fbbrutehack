@@ -9,8 +9,7 @@ Facebook Bruteforce Attack, For Educational Purposes Only
 ```
 >> git clone https://github.com/Yoshialt123/Fbbrutehack
 >> cd Fbbrutehack
->> python3 -m pip install requests bs4
->> python3 -m pip install mechanize
+>> pip3 install requirements.txt
 >> python3 fbbrutehack.py
 ```
 
